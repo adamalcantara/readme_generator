@@ -1,8 +1,8 @@
-# Adam Alcantara;
+# My new project;
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-Description
+My latest project made with JavaScript
   ## Table of Contents 
 
   * [Installation](#installation)

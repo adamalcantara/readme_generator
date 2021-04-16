@@ -42,7 +42,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What does the user need ot know about contributing to the repo?',
+        message: 'What does the user need to know about contributing to the repo?',
         name: 'contributing',
         default: ['Create a pull request.']
     },
