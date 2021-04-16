@@ -1,8 +1,8 @@
-# My new project;
+# README Generator;
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-My latest project made with JavaScript
+Use this README Generator to creat an awesome README for all of your future projects!  The terminal will take you through a set of questions which will help you to create an awesome README.
   ## Table of Contents 
 
   * [Installation](#installation)
@@ -41,6 +41,7 @@ My latest project made with JavaScript
 
   alcantaradevelopment@gmail.com 
 
-# Walkthrough Video
-[Video](https://drive.google.com/file/d/1D36B0abhM3bIy0QqMYOVWn2QhJaQ0UyW/view)
+  # Walkthrough Video
+  [Video](https://drive.google.com/file/d/1D36B0abhM3bIy0QqMYOVWn2QhJaQ0UyW/view)
+
   
