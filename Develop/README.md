@@ -1,7 +1,8 @@
-# A;
-  undefined
+# Adam Alcantara;
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   ## Description 
-A
+Description
   ## Table of Contents 
 
   * [Installation](#installation)
@@ -18,8 +19,9 @@ A
   # Usage
   Create a clone of it to work on it.
 
+
   # License
-  MIT
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   # Contributing
   Create a pull request.
